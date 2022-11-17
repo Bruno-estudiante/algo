@@ -1,0 +1,24 @@
+body
+{
+    color:white;
+    background: rgb(73, 1, 1);
+    font-family: Comic 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera
+{
+    border: 2px dashed black;
+    width: 350px;
+    height:300px;
+}
+
+.name_of_objrcts, #result_object_name  , #result_oject_accuracy
+{
+    color: yellow;
+}
